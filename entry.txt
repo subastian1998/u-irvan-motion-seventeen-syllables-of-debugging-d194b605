@@ -1,0 +1,3 @@
+breakpoint, three a.m.
+the log says nothing is wrong
+the cursor just blinks
